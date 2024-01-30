@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rudys-Text-Revisor/static/css/main.cceff3be.css",
+    "main.js": "/Rudys-Text-Revisor/static/js/main.10bcd68e.js",
+    "static/js/787.7af0ce9f.chunk.js": "/Rudys-Text-Revisor/static/js/787.7af0ce9f.chunk.js",
+    "index.html": "/Rudys-Text-Revisor/index.html",
+    "main.cceff3be.css.map": "/Rudys-Text-Revisor/static/css/main.cceff3be.css.map",
+    "main.10bcd68e.js.map": "/Rudys-Text-Revisor/static/js/main.10bcd68e.js.map",
+    "787.7af0ce9f.chunk.js.map": "/Rudys-Text-Revisor/static/js/787.7af0ce9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cceff3be.css",
+    "static/js/main.10bcd68e.js"
+  ]
+}
