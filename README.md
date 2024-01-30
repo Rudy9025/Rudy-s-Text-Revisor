@@ -55,8 +55,3 @@ Embark on a linguistic journey with Rudy's Text Revisor, a formidable ReactJS ap
 ## License
 - This project is licensed under the MIT License.
 
-
-
-## Descriptions
-
-Explore Rudy's Text Revisor, an advanced ReactJS application meticulously designed for precise text manipulation. This tool surpasses expectations, enabling operations like case transformation, character sequence reversal, and features such as clipboard integration, content previewing, and streamlined content clearance.
