@@ -28,7 +28,7 @@ Embark on a linguistic journey with Rudy's Text Revisor, a formidable ReactJS ap
 
    ```bash
    git clone https://github.com/Rudy9025/Rudys-Text-Revisor.git
-   cd your-repository
+   cd Rudys-Text-Revisor
 2. Install dependencies:
 
     npm install
